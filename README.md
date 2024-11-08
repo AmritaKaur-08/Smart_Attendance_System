@@ -24,17 +24,17 @@ Clone the repository:
 bash
 - git clone https://github.com/AmritaKaur-08/Smmart-Attendance-System.git
 - cd Smart-Attendance-System
-- Install dependencies:
+Install dependencies:
 
 bash
 - pip install -r requirements.txt
-- Setup database:
+Setup database:
 
 bash
 - python manage.py makemigrations
 - python manage.py migrate
-- Run the application:
+Run the application:
 
 bash
 - python manage.py runserver
-- Access the application: Open your browser and go to http://localhost:8000.
+Access the application: Open your browser and go to http://localhost:8000.
