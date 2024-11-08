@@ -37,4 +37,4 @@ bash
 
 bash
 - python manage.py runserver
-Access the application: Open your browser and go to http://localhost:8000.
+- Access the application: Open your browser and go to http://localhost:8000.
