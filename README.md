@@ -19,21 +19,21 @@ The Smart Attendance System is a project designed to automate the process of att
 - PyWin32: Windows-specific utility (optional, for Windows users).
 
 ## 📦 Installation
-Clone the repository:
+### Clone the repository:
 
 bash
 - git clone https://github.com/AmritaKaur-08/Smmart-Attendance-System.git
 - cd Smart-Attendance-System
-Install dependencies:
+### Install dependencies:
 
 bash
 - pip install -r requirements.txt
-Setup database:
+### Setup database:
 
 bash
 - python manage.py makemigrations
 - python manage.py migrate
-Run the application:
+### Run the application:
 
 bash
 - python manage.py runserver
